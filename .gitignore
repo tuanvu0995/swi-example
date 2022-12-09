@@ -79,3 +79,6 @@ yalc-packages
 
 # Build
 dist
+
+# temp
+tmp
